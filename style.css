@@ -1,0 +1,16 @@
+input {
+  padding: 10px;
+  border: 0;
+  outline: none;
+  font-size: 20px;
+
+}
+
+input[type='text']{
+  border-bottom: .5px solid teal;
+
+}
+
+input[type='text']:focus {
+  border-bottom: .5px solid teal;
+}
